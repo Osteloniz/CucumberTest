@@ -24,9 +24,8 @@ Nas duas imagens apresentão resultado do Junit ao testar ambos os cenários.
 Na imagem tem algumas opções para execução do junit:
 
 dryRun(dryRun=true) - com dryrun true, junit vai passar por todo o codigo e se esolhemos executar.
-strict(strict=true) - com o strict true, Junit irá falhar em ambas as etapas caso não estejam definidas.
 
-dryRun(dryRun=true), notamos que o Junit vai avaliar todas as etapas do arquivo, e se optarmos pela execução 
+strict(strict=true) - com o strict true, Junit irá falhar em ambas as etapas caso não estejam definidas.
 
 <h2>Ferramentas Utilizadas</h2>
 <div style="border-bottom: 1px solid grey"></div>
