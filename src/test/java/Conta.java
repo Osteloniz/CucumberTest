@@ -5,7 +5,7 @@ import io.cucumber.java.en.When;
 
 public class Conta {
 
-	public boolean clienteEspecial = true;
+	public boolean clienteEspecial = false;
 	public int conta;
 	public int saque;
 	public int saldo;
